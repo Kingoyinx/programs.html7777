@@ -1,0 +1,132 @@
+div{
+    color: wheat;
+   background-color: whitesmoke;
+   height: 380px;
+   width: 550px;
+   border-radius: 20px;
+margin: 50px;
+margin-right: 40px;
+border-radius: 5px;
+position: relative;
+right: -500px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.Email{
+    color: black;
+    position: relative;
+    right: -100px;
+}
+.Password{
+    color: black;
+    position: relative;
+    right: -100px;
+    top: -30px;
+}
+.fg{
+    color: blue;
+    position: relative;
+    left: 100px;
+    top: -70px;
+}
+.con{
+    position: relative;
+    right: -100px;
+    top: -27px;
+    width: 300px;
+    height: 25px;
+}
+.cont{
+    position: relative;
+    right: -100px;
+    top: -57px;
+    width: 300px;
+    height: 25px;
+}
+.cover{
+background-color:  rgb(42, 42, 230);
+position: relative;
+right: -90px;
+left: 98px;
+width: 300px;
+top:-70px;
+height: 25px;
+}
+.not{
+    color: black;
+    position: relative;
+    top: -81px;
+    right: -280px;
+    font-size: 13px;
+}
+.sign{
+    position: relative;
+    top: -110px;
+    right: -360px;
+    color: blue;
+    font-size: 13px;
+}
+.or{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    position: relative;
+    top:-120px;
+    right: 30px;
+}
+.Facebook{
+    background-color: blue;
+    position: relative;
+    top: -140px;
+    right: -130px;
+height: 25px;
+width: 105px;
+}
+.Google{
+    background-color: red;
+    position: relative;
+    right: -140px;
+    top: -140px;
+    height: 25px;
+    width: 103px;
+    
+}
+div#second{
+    color: blue;
+    background-color: blue;
+    height: 380px;
+    width: 330px;
+    border-radius: 20px;
+ margin: 50px;
+ margin-right: 40px;
+ border-radius: 5px;
+ position: relative;
+ right: 10px;
+ top: -430px;
+ left: 168px;
+}
+.lorem{
+    color: white;
+    position: relative;
+    top: 110px;
+    text-align: center;
+}
+.wrapper{
+    color: white;
+    position: relative;
+    top: 110px;
+    font-size: 20px;
+}  
+img{
+    position: relative;
+    top: 40px;
+    right: -90px;
+ width: 130px;
+}
+i{
+    width: 100px;
+}
+
+    
